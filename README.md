@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I'm Gustavo Santos ! <br>FullStack developer 🎓<br><br>I am a passionate Software Developer recently graduated and eager to build innovative solutions. My academic background gave me a solid foundation in Algorithms, Data Structures, and Software Engineering principles, which I now apply to real-world projects.<br><br>🚀 About Me<br><br>🔭 Currently working on: Enhancing my portfolio with full-stack applications.<br><br>🌱 Learning: Deep diving into [Technology, e.g., Java, AWS, or Docker].<br><br>🎯 Goal: Seeking my first role as a Junior Developer to contribute to impactful projects.<br><br>
+👋 Hi, I'm Gustavo Santos ! <br>FullStack developer 🎓<br><br>Aspiring Software Developer | Tech Enthusiast 🚀
+
+I am a passionate beginner in the world of technology, currently focused on mastering the fundamentals of Web Development. My journey started with a curiosity for how things work on the internet, and now I'm building my own projects and learning something new every single day.<br><br>
 
 
 ## 🌐 Socials:
